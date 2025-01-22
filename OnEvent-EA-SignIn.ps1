@@ -16,6 +16,8 @@ when found. The idea behind this is that Enterprise Admin logons should almost n
 
 7/18/2024 - Set as a scheduled task to run on all Domain Controllers in the Forest.
 
+1/22/2025 - This script needs to be updated to track Enterprise Admin logons when they happen on devices other than Domain Controllers.
+
 
 
 
